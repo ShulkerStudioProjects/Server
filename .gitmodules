@@ -1,0 +1,3 @@
+[submodule "plugins/core"]
+	path = plugins/core
+	url = git@github.com:ShulkerStudioProjects/Core.git
