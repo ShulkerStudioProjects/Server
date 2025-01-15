@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 DIR="$(cd -P "$( dirname "${BASH_SOURCE[0]}" )" && pwd)"
 cd "$DIR" || { echo "Couldn't change directory to $DIR"; exit 1; }
 
